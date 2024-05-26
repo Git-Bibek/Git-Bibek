@@ -1,5 +1,7 @@
 <!-- Title and Introduction -->
-<h1 align="center">Hi 👋, I'm Bibek Shah</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bibek+Sah!;" />
+</h1>
 
 <!-- Social Media Links -->
 <p align="center">
@@ -15,9 +17,7 @@
   <a href="https://www.facebook.com/profile.php?id=61554390566422" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.buymeacoffee.com/bibekshah" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
+
 </p>
 
 <!-- Divider -->
@@ -132,14 +132,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek-Shah&layout=compact&theme=gradient&hide_border=true" alt="Bibek's top languages" />
 </p>
 
----
+<!-- Divider -->
+----
+<hr>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😁
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/bibekshah" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
-  </a>
+  <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 <!-- Divider -->
